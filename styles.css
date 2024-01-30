@@ -1,3 +1,15 @@
+body {
+    margin: 0px;
+}
+
 button {
     color: green;
 }
+
+menu {
+    width: 100%;
+    margin: 0px;
+    padding: 5px;
+    box-shadow: #dddddd 0px 10px 5px;
+}
+
